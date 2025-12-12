@@ -42,6 +42,33 @@ Library-Management-System/
 │
 ├── lib/                 # External JAR dependencies (e.g., mysql-connector)
 │
+```
+##  Screenshots
+
+### Login
+![Login](RESOURCES/login.png)
+
+### Admin Login
+![Admin Login](RESOURCES/Admin login.png)
+
+### Admin Dashboard
+![Admin Dashboard](RESOURCES/admin dashboard.png)
+
+### Add Books
+![Add Books](RESOURCES/add books.png)
+
+### Issue & Return Books
+![Issue and Return](RESOURCES/issue and return books.png)
+
+### Register New Students
+![Register Students](RESOURCES/register new students.png)
+
+### Student Dashboard
+![Student Dashboard](RESOURCES/student dashboard.png)
+
+### Student Login
+![Student Login](RESOURCES/student login.png)
+
 ├── README.md            # Documentation
 └── .gitignore           # Ignore build & temp files
 ```
