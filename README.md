@@ -2,13 +2,13 @@
 
 **A Java Swing based Library Management System** with admin & student login, book management, issue/return, and search features.
 
-## 🔎 Overview
+## Overview
 This project provides a desktop GUI (Swing) for managing books and student accounts.  
 There are two user roles:
 - **Admin** — can register students, add/edit/delete books, issue/return books and view all issued records.
 - **Student** — can log in to view/search available books and see their issued books.
 
-## ✅ Features
+## Features
 - Admin & Student login system  
 - Register/manage students  
 - Add / Edit / Delete books 📚  
@@ -18,7 +18,7 @@ There are two user roles:
 - View issued books list with **issue date** & **due date** (fine/overdue can be added)  
 - Logout functionality
 
-## 🛠 Technologies
+## Technologies
 - Java (JDK 8+)
 - Swing (GUI)
 - JDBC + MySQL (or any relational DB)
