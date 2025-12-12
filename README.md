@@ -11,7 +11,7 @@ There are two user roles:
 ## Features
 - Admin & Student login system  
 - Register/manage students  
-- Add / Edit / Delete books 📚  
+- Add / Edit / Delete books   
 - Search books by **Title**, **Author**, **Genre**  
 - Issue books to students  
 - Return books & update availability  
@@ -24,5 +24,25 @@ There are two user roles:
 - JDBC + MySQL (or any relational DB)
 - IDE: NetBeans / IntelliJ IDEA / Eclipse
 
-## 📂 Project Structure (recommended)
+## Project Structure (recommended)
+```
+Library-Management-System/
+├── src/                 # Java source files
+│   ├── dao/             # Data access logic
+│   ├── db/              # Database connection
+│   ├── models/          # POJO classes
+│   ├── ui/              # Swing forms & UI
+│   ├── utils/           # Helper utilities
+│   └── Main.java        # Entry point
+│
+├── resources/           # App icons / screenshots (optional)
+│
+├── sql/                 # Database schema files (optional)
+│   └── database.sql
+│
+├── lib/                 # External JAR dependencies (e.g., mysql-connector)
+│
+├── README.md            # Documentation
+└── .gitignore           # Ignore build & temp files
+```
 
